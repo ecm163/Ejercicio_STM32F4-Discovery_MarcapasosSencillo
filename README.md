@@ -72,19 +72,9 @@ y así sucesivamente.
       .
 Para iniciar el proceso anterior se pulsa el botón “User” de color azul de la placa, y para interrumpirlo se vuelve a pulsar. 
 De manera que el botón “User” hace de interruptor del sistema. 
-El led verde estará permanentemente encendido como señal de que el programa está cargado en la placa.
-
-
-
-y así sucesivamente.
-      .
-      .
-      .
-      .
-Para iniciar el proceso anterior se pulsa el botón “User” de color azul de la placa, y para interrumpirlo se vuelve a pulsar. 
-De manera que el botón “User” hace de interruptor del sistema. 
 
 El led verde estará permanentemente encendido como señal de que el programa está cargado en la placa.
+
 
 Un saludo.
 
