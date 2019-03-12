@@ -1,7 +1,7 @@
 # Ejercicio_STM32F4-Discovery_MarcapasosSencillo
 
 En éste ejercicio práctico se ha desarrollado software en C para implementarlo en el micro STM32F407VGt6 de la  placa de desarrollo 
-STM32F4-Discovery, dicho sofware simula mediante leds el funcionamiento de un marcapasos sencillo.
+STM32F4-Discovery, dicho software simula mediante leds el funcionamiento de un marcapasos sencillo.
 
 NOTA IMPORTANTE: Para explicar de una forma más detallada como ejecutar el programa en su placa y explicar el funcionamiento que 
 implementa el software, se ha añadido a éste repositorio un documento PDF.
